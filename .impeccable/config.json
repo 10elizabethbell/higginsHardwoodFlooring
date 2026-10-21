@@ -1,0 +1,26 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "repeating-stripes-gradient",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-21T01:40:39.026Z",
+        "reason": "Ellie's house calm band style (pitch-site calm-photo-style.md, chosen 2026-10-19): faint 135deg band texture is a required feature"
+      },
+      {
+        "rule": "flat-type-hierarchy",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-21T01:42:25.160Z",
+        "reason": "Claude triage: after collapsing to 14/16/18/20 UI tiers, the headings run 24-80px via clamp() which the detector does not count; refine-modes review judged the remainder normal UI label spread"
+      }
+    ]
+  }
+}
