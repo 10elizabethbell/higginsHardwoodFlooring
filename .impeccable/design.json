@@ -1,0 +1,442 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-20T21:47:35-04:00",
+  "title": "Design System: Higgins Hardwood Flooring",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "canonical": "#f6f5f1",
+        "tonalRamp": [
+          "#0c0b0a",
+          "#262522",
+          "#43423f",
+          "#62615e",
+          "#83827f",
+          "#a6a5a1",
+          "#cac9c5",
+          "#efeeec"
+        ]
+      },
+      "card": {
+        "role": "neutral",
+        "displayName": "Card White",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "field": {
+        "role": "neutral",
+        "displayName": "Field Mist",
+        "canonical": "#e3e5ee",
+        "tonalRamp": [
+          "#0a0b0e",
+          "#23252b",
+          "#404249",
+          "#5f6168",
+          "#80828a",
+          "#a3a4ad",
+          "#c7c9d1",
+          "#edeef4"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#0f132e",
+        "tonalRamp": [
+          "#070a19",
+          "#1d223f",
+          "#39405f",
+          "#585f80",
+          "#7880a3",
+          "#9aa3c7",
+          "#bec7ed",
+          "#e7edff"
+        ]
+      },
+      "body": {
+        "role": "neutral",
+        "displayName": "Body Slate",
+        "canonical": "#2b2f45",
+        "tonalRamp": [
+          "#080a15",
+          "#202338",
+          "#3c4057",
+          "#5b6078",
+          "#7b819b",
+          "#9ea3bf",
+          "#c2c8e4",
+          "#eaeeff"
+        ]
+      },
+      "soft": {
+        "role": "neutral",
+        "displayName": "Soft Slate",
+        "canonical": "#4b5068",
+        "tonalRamp": [
+          "#080a15",
+          "#1f2339",
+          "#3c4058",
+          "#5a6078",
+          "#7b819b",
+          "#9da4bf",
+          "#c1c8e4",
+          "#e9eeff"
+        ]
+      },
+      "navy": {
+        "role": "secondary",
+        "displayName": "Logo Navy",
+        "canonical": "#1b2352",
+        "tonalRamp": [
+          "#050820",
+          "#181f4e",
+          "#333e6f",
+          "#515e92",
+          "#717fb6",
+          "#92a2db",
+          "#b6c6ff",
+          "#e2edff"
+        ]
+      },
+      "deep": {
+        "role": "secondary",
+        "displayName": "Deep Navy",
+        "canonical": "#0f132e",
+        "tonalRamp": [
+          "#070a19",
+          "#1d223f",
+          "#39405f",
+          "#585f80",
+          "#7880a3",
+          "#9aa3c7",
+          "#bec7ed",
+          "#e7edff"
+        ]
+      },
+      "on-dark": {
+        "role": "neutral",
+        "displayName": "On-Dark",
+        "canonical": "#f6f5f1",
+        "tonalRamp": [
+          "#0c0b0a",
+          "#262522",
+          "#43423f",
+          "#62615e",
+          "#83827f",
+          "#a6a5a1",
+          "#cac9c5",
+          "#efeeec"
+        ]
+      },
+      "on-dark-soft": {
+        "role": "neutral",
+        "displayName": "On-Dark Soft",
+        "canonical": "#c6cbe0",
+        "tonalRamp": [
+          "#090b13",
+          "#212434",
+          "#3d4152",
+          "#5c6072",
+          "#7d8195",
+          "#9fa4b8",
+          "#c3c8dd",
+          "#ebeefb"
+        ]
+      },
+      "gold": {
+        "role": "primary",
+        "displayName": "Logo Gold",
+        "canonical": "#c9a24a",
+        "tonalRamp": [
+          "#180600",
+          "#3d1c00",
+          "#5d3a00",
+          "#7f5a00",
+          "#a27c1c",
+          "#c69f47",
+          "#ebc36c",
+          "#ffecba"
+        ]
+      },
+      "gold-2": {
+        "role": "primary",
+        "displayName": "Pale Gold",
+        "canonical": "#d8b665",
+        "tonalRamp": [
+          "#160700",
+          "#3b1e00",
+          "#5a3c00",
+          "#7b5c00",
+          "#9e7e29",
+          "#c2a14f",
+          "#e7c574",
+          "#ffedbd"
+        ]
+      },
+      "gold-ink": {
+        "role": "primary",
+        "displayName": "Gold Ink",
+        "canonical": "#7a5a12",
+        "tonalRamp": [
+          "#160700",
+          "#3b1d00",
+          "#5a3b00",
+          "#7b5b14",
+          "#9e7d3b",
+          "#c2a05e",
+          "#e7c482",
+          "#ffecc5"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus Blue",
+        "canonical": "#33449a",
+        "tonalRamp": [
+          "#03032e",
+          "#111368",
+          "#28378b",
+          "#4458b0",
+          "#637bd6",
+          "#849ffd",
+          "#a7c3ff",
+          "#d9ecff"
+        ]
+      },
+      "error": {
+        "role": "neutral",
+        "displayName": "Error Red",
+        "canonical": "#b3261e",
+        "tonalRamp": [
+          "#2a0000",
+          "#610000",
+          "#880000",
+          "#b0221b",
+          "#d84c3f",
+          "#ff7161",
+          "#ff9784",
+          "#ffd4c6"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero H1 only, white over the shaded photo."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section H2s."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Service rows, step titles, closing contact link."
+      },
+      "ui": {
+        "displayName": "UI",
+        "purpose": "Buttons, form labels, brand name, Facebook card."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "Hero promise, section intros, closing area line."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Running text, inputs, chips, footer."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Eyebrow pills, optional hints, helper line."
+      }
+    },
+    "shadows": [
+      {
+        "name": "float-lift",
+        "value": "0 10px 28px rgba(15,19,46,.3)",
+        "purpose": "Floating contact circle only."
+      }
+    ],
+    "textures": [
+      {
+        "name": "band-lines",
+        "value": "repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)",
+        "purpose": "Deep navy bands and footer."
+      }
+    ],
+    "motion": [
+      {
+        "name": "letter-in",
+        "value": "1s cubic-bezier(.34,1.56,.64,1), 20ms stagger, translateX(50px) to 0",
+        "purpose": "Hero H1 bounce-in, JS only, off under reduced motion."
+      },
+      {
+        "name": "rise",
+        "value": "opacity and translateY(12px), .4s ease-out",
+        "purpose": "One fade-up for content starting below the first screen."
+      },
+      {
+        "name": "float-in",
+        "value": "transform .35s cubic-bezier(.2,.8,.2,1)",
+        "purpose": "Contact circle slide-up."
+      },
+      {
+        "name": "state",
+        "value": ".2s (buttons, arrows), .15s (fields, chips); press scale .98 at .12s",
+        "purpose": "Hover and press transitions."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "desktop",
+        "value": "760px"
+      },
+      {
+        "name": "wide",
+        "value": "1024px"
+      },
+      {
+        "name": "landscape-phone",
+        "value": "min-width 760px and max-height 520px"
+      },
+      {
+        "name": "narrow",
+        "value": "max-width 380px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Gold pill with ink text; the free-estimate action.",
+      "html": "<button class=\"ds-btn ds-btn-primary\">Get a free estimate</button>",
+      "css": ":host{--paper:#f6f5f1;--card:#fff;--field:#e3e5ee;--ink:#0f132e;--navy:#1b2352;--deep:#0f132e;--on-dark:#f6f5f1;--on-dark-soft:#c6cbe0;--gold:#c9a24a;--gold-2:#d8b665;--gold-ink:#7a5a12;--focus:#33449a;--error:#b3261e;--soft:#4b5068;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:56px;padding:0 26px;border-radius:999px;font:400 18px/1 var(--display);border:2px solid transparent;cursor:pointer;transition:background-color .2s,border-color .2s,transform .12s} .ds-btn:active{transform:scale(.98)} .ds-btn:focus-visible{outline:3px solid var(--focus);outline-offset:3px} .ds-btn-primary{background:var(--gold);color:var(--ink);border-color:var(--gold)} .ds-btn-primary:hover{background:var(--gold-2);border-color:var(--gold-2)}"
+    },
+    {
+      "name": "Line Button",
+      "kind": "button",
+      "refersTo": "button-line",
+      "description": "Outlined ink pill; the secondary Copy action only.",
+      "html": "<button class=\"ds-btn ds-btn-line\">Copy message</button>",
+      "css": ":host{--paper:#f6f5f1;--card:#fff;--field:#e3e5ee;--ink:#0f132e;--navy:#1b2352;--deep:#0f132e;--on-dark:#f6f5f1;--on-dark-soft:#c6cbe0;--gold:#c9a24a;--gold-2:#d8b665;--gold-ink:#7a5a12;--focus:#33449a;--error:#b3261e;--soft:#4b5068;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:56px;padding:0 26px;border-radius:999px;font:400 18px/1 var(--display);border:2px solid transparent;cursor:pointer;transition:background-color .2s,border-color .2s,transform .12s} .ds-btn:active{transform:scale(.98)} .ds-btn:focus-visible{outline:3px solid var(--focus);outline-offset:3px} .ds-btn-line{background:transparent;color:var(--ink);border-color:var(--ink)} .ds-btn-line:hover{background:rgba(15,19,46,.06)}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Field-mist input on the white form card, Cal Sans label.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-n\">Your name</label><input id=\"ds-n\" type=\"text\" placeholder=\"First name is fine\"></div>",
+      "css": ":host{--paper:#f6f5f1;--card:#fff;--field:#e3e5ee;--ink:#0f132e;--navy:#1b2352;--deep:#0f132e;--on-dark:#f6f5f1;--on-dark-soft:#c6cbe0;--gold:#c9a24a;--gold-2:#d8b665;--gold-ink:#7a5a12;--focus:#33449a;--error:#b3261e;--soft:#4b5068;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif} .ds-field{display:grid;gap:8px;background:var(--card);padding:20px;border-radius:24px} .ds-field label{font:400 18px/1.2 var(--display);color:var(--ink)} .ds-field input{font:16px/1.4 var(--text);color:var(--ink);background:var(--field);border:2px solid transparent;border-radius:10px;padding:13px 14px;min-height:52px;transition:border-color .15s} .ds-field input::placeholder{color:var(--soft)} .ds-field input:hover,.ds-field input:focus{outline:none;border-color:var(--focus)}"
+    },
+    {
+      "name": "Job Chip",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Radio chip pill; selected is ink fill.",
+      "html": "<div class=\"ds-chips\"><input type=\"radio\" name=\"ds-j\" id=\"ds-j1\" checked><label for=\"ds-j1\">Sand &amp; refinish</label><input type=\"radio\" name=\"ds-j\" id=\"ds-j2\"><label for=\"ds-j2\">Repair</label></div>",
+      "css": ":host{--paper:#f6f5f1;--card:#fff;--field:#e3e5ee;--ink:#0f132e;--navy:#1b2352;--deep:#0f132e;--on-dark:#f6f5f1;--on-dark-soft:#c6cbe0;--gold:#c9a24a;--gold-2:#d8b665;--gold-ink:#7a5a12;--focus:#33449a;--error:#b3261e;--soft:#4b5068;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif} .ds-chips{display:flex;flex-wrap:wrap;gap:10px} .ds-chips input{position:absolute;opacity:0;width:1px;height:1px} .ds-chips label{display:inline-flex;align-items:center;min-height:48px;padding:0 18px;border-radius:999px;background:var(--field);border:2px solid transparent;font:16px/1 var(--text);color:var(--ink);cursor:pointer} .ds-chips label:hover{border-color:var(--focus)} .ds-chips input:focus-visible+label{outline:3px solid var(--focus);outline-offset:3px} .ds-chips input:checked+label{background:var(--ink);color:#fff}"
+    },
+    {
+      "name": "Service Row",
+      "kind": "custom",
+      "description": "Full-width service link on navy with an arrow disc.",
+      "html": "<div class=\"ds-band\"><a class=\"ds-row\" href=\"#\">Sanding &amp; refinishing<span class=\"ds-arrow\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></a></div>",
+      "css": ":host{--paper:#f6f5f1;--card:#fff;--field:#e3e5ee;--ink:#0f132e;--navy:#1b2352;--deep:#0f132e;--on-dark:#f6f5f1;--on-dark-soft:#c6cbe0;--gold:#c9a24a;--gold-2:#d8b665;--gold-ink:#7a5a12;--focus:#33449a;--error:#b3261e;--soft:#4b5068;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif} .ds-band{background:var(--navy);padding:8px 20px} .ds-row{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:76px;text-decoration:none;color:var(--on-dark);font:400 26px/1.15 var(--display);outline:none} .ds-arrow{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.1);color:var(--on-dark);transition:background-color .2s,color .2s} .ds-row:hover .ds-arrow,.ds-row:focus-visible .ds-arrow{background:var(--gold);color:var(--ink)} .ds-row:focus-visible .ds-arrow{outline:3px solid var(--gold);outline-offset:3px}"
+    },
+    {
+      "name": "Step Number",
+      "kind": "custom",
+      "description": "Gold disc numeral beside a Cal Sans step title on deep navy.",
+      "html": "<div class=\"ds-deep\"><div class=\"ds-step\"><span class=\"ds-num\">1</span><div><b>Message me.</b><span>Tell me about the rooms and the floor.</span></div></div></div>",
+      "css": ":host{--paper:#f6f5f1;--card:#fff;--field:#e3e5ee;--ink:#0f132e;--navy:#1b2352;--deep:#0f132e;--on-dark:#f6f5f1;--on-dark-soft:#c6cbe0;--gold:#c9a24a;--gold-2:#d8b665;--gold-ink:#7a5a12;--focus:#33449a;--error:#b3261e;--soft:#4b5068;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif} .ds-deep{background-color:var(--deep);background-image:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px);padding:24px;color:var(--on-dark-soft);font:16px/1.7 var(--text)} .ds-step{display:grid;grid-template-columns:48px 1fr;gap:16px} .ds-num{width:48px;height:48px;border-radius:50%;display:grid;place-items:center;background:var(--gold);color:var(--ink);font:400 18px/1 var(--display)} .ds-step b{display:block;font:400 24px/1.2 var(--display);color:var(--on-dark);margin-top:4px} .ds-step span{display:block;margin-top:4px}"
+    },
+    {
+      "name": "Eyebrow Pill",
+      "kind": "chip",
+      "refersTo": "eyebrow",
+      "description": "Ellie's house-style exception: quiet fact label above the hero H1 and estimate heading only.",
+      "html": "<span class=\"ds-eyebrow\">Free estimates</span>",
+      "css": ":host{--paper:#f6f5f1;--card:#fff;--field:#e3e5ee;--ink:#0f132e;--navy:#1b2352;--deep:#0f132e;--on-dark:#f6f5f1;--on-dark-soft:#c6cbe0;--gold:#c9a24a;--gold-2:#d8b665;--gold-ink:#7a5a12;--focus:#33449a;--error:#b3261e;--soft:#4b5068;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif} .ds-eyebrow{display:inline-flex;align-items:center;gap:10px;font:500 14px/1 var(--text);letter-spacing:.02em;color:var(--ink);background:rgba(15,19,46,.06);padding:9px 14px;border-radius:999px} .ds-eyebrow::before{content:'';width:7px;height:7px;border-radius:50%;background:var(--gold)}"
+    },
+    {
+      "name": "Floating Contact Circle",
+      "kind": "custom",
+      "refersTo": "float-contact",
+      "description": "The one floating gold contact button; Messenger until CONFIG.PHONE is set.",
+      "html": "<a class=\"ds-float\" href=\"#\" aria-label=\"Message Higgins Hardwood Flooring\"><svg width=\"26\" height=\"26\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 3C6.9 3 3 6.7 3 11.4c0 2.6 1.2 4.9 3.2 6.4V21l3-1.7c.9.3 1.8.4 2.8.4 5.1 0 9-3.7 9-8.3S17.1 3 12 3z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.1\" stroke-linejoin=\"round\"/></svg></a>",
+      "css": ":host{--paper:#f6f5f1;--card:#fff;--field:#e3e5ee;--ink:#0f132e;--navy:#1b2352;--deep:#0f132e;--on-dark:#f6f5f1;--on-dark-soft:#c6cbe0;--gold:#c9a24a;--gold-2:#d8b665;--gold-ink:#7a5a12;--focus:#33449a;--error:#b3261e;--soft:#4b5068;--display:'Cal Sans','Avenir Next','Segoe UI',system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif} .ds-float{width:60px;height:60px;border-radius:50%;display:grid;place-items:center;background:var(--gold);color:var(--ink);box-shadow:0 10px 28px rgba(15,19,46,.3)} .ds-float:focus-visible{outline:3px solid var(--focus);outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Logo, Laid Out as a Floor",
+    "overview": "Ellie's calm band style applied to one floor man's logo. The page is a stack of full-width bands: warm paper, the logo's mid navy, the logo's deep navy with a faint diagonal line texture. Gold appears as the logo uses it, as a solid fill (buttons, step numbers, the contact circle) and never as text on light. Headings are Cal Sans at weight 400; everything else is the system face. Density is low: one idea per band, generous section padding, large tap targets.\n\nMotion is limited to three moves: the hero H1 letter bounce-in, one 12px fade-up for content that starts below the first screen, and the floating contact circle sliding up. Nothing else animates.\n\nThe hero photo and the finish photo are **generated examples** (gpt-image-1), not the owner's jobs. Swap them for real work photos as soon as he sends any; keep the navy shade over the hero so the white H1 still reads.\n\nContact is **Messenger only** until `CONFIG.PHONE` is set in the script. Setting it switches the header link, closing link, form button and floating circle to call or text, and swaps their icons. Don't hard-code a phone link anywhere in the markup.",
+    "keyCharacteristics": [
+      "Full-bleed bands in a fixed rotation: hero (deep + photo), navy, paper, deep, paper, navy, deep footer.",
+      "Gold is a fill. Gold as text appears only on dark bands; on light it becomes gold-ink.",
+      "Pills for actions and chips, 24px cards for containers, circles for arrows, step numbers and the contact button.",
+      "Every action leads to the one estimate form or Messenger."
+    ],
+    "rules": [
+      {
+        "name": "The Gold Is a Fill Rule",
+        "body": "Never set text in gold on paper or white. Use gold-ink for text on light, and gold text only on navy, deep or the shaded hero.",
+        "section": "colors"
+      },
+      {
+        "name": "The Accent Phrase Rule",
+        "body": "On dark bands the heading's last word or phrase is gold (\"Philly.\", \"do.\", \"works.\"). Light-band headings stay all ink.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Focus Colours Rule",
+        "body": "Focus outlines are 3px with a 3px offset: focus blue on light grounds, gold on navy, deep, hero and footer.",
+        "section": "colors"
+      },
+      {
+        "name": "The Cal Sans Means Tap or Heading Rule",
+        "body": "Cal Sans is for headings and things you press or label. Paragraphs are never in Cal Sans.",
+        "section": "typography"
+      },
+      {
+        "name": "The Four UI Tiers Rule",
+        "body": "Non-heading sizes are 14, 16, 18 and 20px. Don't add a fifth.",
+        "section": "typography"
+      },
+      {
+        "name": "The One Shadow Rule",
+        "body": "The contact circle is the only element with a shadow. Cards, buttons and chips stay flat, with no hover shadow.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do use the colour tokens in `:root` for any new colour. Gold-ink is the only gold for text on light.",
+      "Do keep the band rotation: a light band between each pair of dark ones.",
+      "Do put the last word of a dark-band heading in the accent span.",
+      "Do keep hover styles inside `@media (hover:hover)` so taps don't leave them stuck on.",
+      "Do keep 44px minimum tap targets and the 56px button height.",
+      "Do replace the generated hero and finish photos with the owner's real work when it arrives, keeping the navy shade.",
+      "Do switch contact by setting `CONFIG.PHONE` / `CONFIG.PHONE_SHOWN`, not by editing links."
+    ],
+    "donts": [
+      "Don't set gold text on paper or white, or put white text on gold.",
+      "Don't add shadows to cards, buttons or chips; the contact circle is the only lifted element.",
+      "Don't add new motion beyond the H1 bounce-in, the one 12px fade-up and the circle slide.",
+      "Don't add eyebrows above more headings, or give one an arrow, hover or gold fill.",
+      "Don't turn the floating circle into a bottom bar or add a second floating button.",
+      "Don't add a Call button to the hero; the number goes in the header's top-right once it exists.",
+      "Don't set paragraphs in Cal Sans or add a size outside the 14/16/18/20 UI tiers."
+    ]
+  }
+}
